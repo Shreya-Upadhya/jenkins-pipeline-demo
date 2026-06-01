@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     environment {
-        DOCKER_IMAGE = 'YOUR_DOCKER_USERNAME/jenkins-pipeline-demo'
+        DOCKER_IMAGE = 'slayerass/jenkins-pipeline-demo'
         DOCKER_TAG = 'latest'
     }
     
