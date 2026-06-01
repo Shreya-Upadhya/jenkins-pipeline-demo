@@ -24,3 +24,4 @@ http://localhost:3000
 <img width="765" height="343" alt="2026-06-01 (7)" src="https://github.com/user-attachments/assets/5d6c348c-e6eb-48a5-93a7-d670be2f6f6d" />
 <img width="1822" height="789" alt="2026-06-01 (10)" src="https://github.com/user-attachments/assets/7ecc8187-b782-433d-a92f-5b3cca226c8f" />
 <img width="1624" height="248" alt="2026-06-01 (11)" src="https://github.com/user-attachments/assets/07cc264e-7008-4f61-8e73-3bdbeee66500" />
+<img width="1480" height="820" alt="2026-06-01 (9)" src="https://github.com/user-attachments/assets/890a07d3-83ad-462e-af05-23ebd3e241b9" />
